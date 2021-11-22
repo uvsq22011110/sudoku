@@ -1,0 +1,2 @@
+# sudoku
+Le sudoku est un jeu de logique visant à remplir une grille de 9x9 carrés avec des nombres de 1 à 9. La grille de sudoku est divisée en 9 régions de taille 3x3, visibles en gras sur la figure ci-dessous. La règle du jeu de sudoku est simple: la grille doit être remplie en utilisant qu’une seule fois chaque chiffre de 1 à 9 sur chaque ligne, colonne et région de la grille. Une grille de sudoku peut avoir plusieurs bonne solution, mais une “bonne” grille ne possède qu’une solution unique.
